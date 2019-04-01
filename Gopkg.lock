@@ -54,8 +54,7 @@
   name = "github.com/DataDog/viper"
   packages = ["."]
   pruneopts = ""
-  revision = "991b92b30e71a5ae48f8c2e81a95b1209549ed8d"
-  version = "v1.6.0"
+  revision = "v1.6.0"
 
 [[projects]]
   digest = "1:34d4c1b61fa208e523726ddb85d01b8caa8f2de0cd656d91c81b6b86daea485c"
